@@ -10,6 +10,11 @@ namespace PracticeConsoleProject
     {
         static void Main(string[] args)
         {
+            string date = "02/03/1996 07:00:00 AM";
+            Console.WriteLine(Convert.ToDateTime(date));
+            Console.ReadKey();
+
+
         }
     }
 }

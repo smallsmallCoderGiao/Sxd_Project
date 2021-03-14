@@ -1,0 +1,7 @@
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\bin\Debug\PracticeConsoleProject.exe.config
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\bin\Debug\PracticeConsoleProject.exe
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\bin\Debug\PracticeConsoleProject.pdb
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\obj\Debug\PracticeConsoleProject.csprojAssemblyReference.cache
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\obj\Debug\PracticeConsoleProject.csproj.CoreCompileInputs.cache
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\obj\Debug\PracticeConsoleProject.exe
+D:\Console_Project\PracticeConsoleProject\PracticeConsoleProject\obj\Debug\PracticeConsoleProject.pdb
